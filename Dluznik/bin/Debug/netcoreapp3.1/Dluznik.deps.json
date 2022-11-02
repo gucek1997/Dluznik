@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Dluznik/1.0.0": {
+        "dependencies": {
+          "Dluznik.Core": "1.0.0"
+        },
+        "runtime": {
+          "Dluznik.dll": {}
+        }
+      },
+      "Dluznik.Core/1.0.0": {
+        "runtime": {
+          "Dluznik.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dluznik/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dluznik.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

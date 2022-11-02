@@ -1,0 +1,2 @@
+Aplikacja w której mo¿na wpisaæ d³ug oraz 
+osobê maj¹c¹ d³ug. Wyœwietliæ to. Wszystko zapisuje siê w pliku txt

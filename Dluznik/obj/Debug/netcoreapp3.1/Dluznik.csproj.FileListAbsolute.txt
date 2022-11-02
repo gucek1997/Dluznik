@@ -1,0 +1,17 @@
+C:\Users\Kubuś\Desktop\Dluznik\Dluznik\obj\Debug\netcoreapp3.1\Dluznik.csproj.AssemblyReference.cache
+C:\Users\Kubuś\Desktop\Dluznik\Dluznik\obj\Debug\netcoreapp3.1\Dluznik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kubuś\Desktop\Dluznik\Dluznik\obj\Debug\netcoreapp3.1\Dluznik.AssemblyInfoInputs.cache
+C:\Users\Kubuś\Desktop\Dluznik\Dluznik\obj\Debug\netcoreapp3.1\Dluznik.AssemblyInfo.cs
+C:\Users\Kubuś\Desktop\Dluznik\Dluznik\obj\Debug\netcoreapp3.1\Dluznik.csproj.CoreCompileInputs.cache
+C:\Users\Kubuś\Desktop\Dluznik\Dluznik\bin\Debug\netcoreapp3.1\Dluznik.exe
+C:\Users\Kubuś\Desktop\Dluznik\Dluznik\bin\Debug\netcoreapp3.1\Dluznik.deps.json
+C:\Users\Kubuś\Desktop\Dluznik\Dluznik\bin\Debug\netcoreapp3.1\Dluznik.runtimeconfig.json
+C:\Users\Kubuś\Desktop\Dluznik\Dluznik\bin\Debug\netcoreapp3.1\Dluznik.runtimeconfig.dev.json
+C:\Users\Kubuś\Desktop\Dluznik\Dluznik\bin\Debug\netcoreapp3.1\Dluznik.dll
+C:\Users\Kubuś\Desktop\Dluznik\Dluznik\bin\Debug\netcoreapp3.1\Dluznik.pdb
+C:\Users\Kubuś\Desktop\Dluznik\Dluznik\bin\Debug\netcoreapp3.1\Dluznik.Core.dll
+C:\Users\Kubuś\Desktop\Dluznik\Dluznik\bin\Debug\netcoreapp3.1\Dluznik.Core.pdb
+C:\Users\Kubuś\Desktop\Dluznik\Dluznik\obj\Debug\netcoreapp3.1\Dluznik.csproj.CopyComplete
+C:\Users\Kubuś\Desktop\Dluznik\Dluznik\obj\Debug\netcoreapp3.1\Dluznik.dll
+C:\Users\Kubuś\Desktop\Dluznik\Dluznik\obj\Debug\netcoreapp3.1\Dluznik.pdb
+C:\Users\Kubuś\Desktop\Dluznik\Dluznik\obj\Debug\netcoreapp3.1\Dluznik.genruntimeconfig.cache
